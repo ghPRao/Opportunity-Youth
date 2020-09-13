@@ -132,6 +132,9 @@ dmypy.json
 # In this case, they are SQL scripts, not databases, so explicitly don't ignore
 !*.sql
 
+# Ignore shape files
+!*.shp
+
 # Mac OS
 .DS_Store
 
