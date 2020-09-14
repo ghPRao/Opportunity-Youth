@@ -7,9 +7,24 @@ This project offers an updated estimate of the number of Opportunity Youth in So
 
 Measuring the successes and barriers faced by our most vulnerable youth is a challenge in the South King County region<sup>1</sup>. While there is a lot of information gathered from K12 districts and colleges about student outcomes, few data exists among Opportunity Youth (OY): young folks between the age 16 through 24 who are disengaged from both work and school<sup>2</sup>. This population is of particular interest to The Seattle Region Partnership (SRP), a multi-sector initiative founded by the Seattle Metropolitan Chamber of Commerce, Seattle Foundation, City of Seattle, and King County<sup>3</sup>.
 
+
 ## PROJECT GOAL
 
 The SRP would like an update on the estimated number of OY in South King County. According to a recent The Seattle Times article, the number of OY in South King County has remained steadfast at 19,000<sup>4</sup>. However, that estimation comes from a report that is over three years old. As Data Science Consultants, your task is to inform the SRP on the current status of OY in South King County using updated data.
+
+
+## TABLE OF CONTENTS
+
+Our home repository contains the project environment and information about our project.
+
+The notebooks folder contains two more folders- the report folder which houses an organized polished file containing the entire project, and an exploratory folder, which houses an exploration of the data we each individually took part in, which constituted our workflow. The notebook folder also contains readme files to further explain the contents.
+
+The src folder contains all the data we needed to import for the project. It is organized by file types - sql, csv, and shapefiles.
+
+The reports folder contains the pdf presentation of our project. It also has an figures folder in which we outputted all of our images.
+
+the references folder contains any sources we used to aid our project.
+
 
 ## PROJECT
 

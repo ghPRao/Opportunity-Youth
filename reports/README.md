@@ -1,3 +1,3 @@
 # Reports
 
-Generated written analysis as Word Doc, HTML, PDF, LaTeX, etc.
+The pdf contains our final report and the figures folder contains the visualizations from our findings.
