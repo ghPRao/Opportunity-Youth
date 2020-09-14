@@ -6,6 +6,8 @@ This directory contains a polished notebook that states the business problem and
 
 This project offers an updated estimate of the number of Opportunity Youth in South King County using the 2017 5-year American Community Survey [(ACS)](https://www.census.gov/programs-surveys/acs/about.html) Public Use Microdata Survey [(PUMS)](https://www.census.gov/programs-surveys/acs/technical-documentation/pums.html).
 
+Note: We could not include the shapefile as it was too large but here is a link on how to download it. https://usa.ipums.org/usa/volii/boundaries.shtml it is the very first download link labeled "2010 PUMAS"
+
 
 ## BACKGROUND
 
